@@ -1,0 +1,150 @@
+{
+  "name": "dark icon",
+  "dark_icon": [
+    {
+      "name": "global.png",
+      "url": "https://d.huore.de/webdav/icon/global.png"
+    },
+    {
+      "name": "github.png",
+      "url": "https://d.huore.de/webdav/icon/github.png"
+    },
+    {
+      "name": "youtube.png",
+      "url": "https://d.huore.de/webdav/icon/youtube.png"
+    },
+    {
+      "name": "google.png",
+      "url": "https://d.huore.de/webdav/icon/google.png"
+    },
+    {
+      "name": "meta.png",
+      "url": "https://d.huore.de/webdav/icon/meta.png"
+    },
+    {
+      "name": "reddit.png",
+      "url": "https://d.huore.de/webdav/icon/reddit.png"
+    },
+    {
+      "name": "final.png",
+      "url": "https://d.huore.de/webdav/icon/final.png"
+    },
+    {
+      "name": "wechat",
+      "url": "https://d.huore.de/webdav/icon/wechat.png"
+    },
+    {
+      "name": "zhihu.pngu",
+      "url": "https://d.huore.de/webdav/icon/zhihu.png"
+    },
+    {
+      "name": "tiktok.png",
+      "url": "https://d.huore.de/webdav/icon/tiktok.png"
+    },
+    {
+      "name": "paypal.png",
+      "url": "https://d.huore.de/webdav/icon/paypal.png"
+    },
+    {
+      "name": "whatsapp.png",
+      "url": "https://d.huore.de/webdav/icon/whatsapp.png"
+    },
+    {
+      "name": "x.png",
+      "url": "https://d.huore.de/webdav/icon/x.png"
+    },
+    {
+      "name": "apple.png",
+      "url": "https://d.huore.de/webdav/icon/apple.png"
+    },
+    {
+      "name": "apple_store.png",
+      "url": "https://d.huore.de/webdav/icon/apple_store.png"
+    },
+    {
+      "name": "onedrive.png",
+      "url": "https://d.huore.de/webdav/icon/onedrive.png"
+    },
+    {
+      "name": "microsoft.png",
+      "url": "https://d.huore.de/webdav/icon/microsoft.png"
+    },
+    {
+      "name": "telegram.png",
+      "url": "https://d.huore.de/webdav/icon/telegram.png"
+    },
+    {
+      "name": "cloudflare.png",
+      "url": "https://d.huore.de/webdav/icon/cloudflare.png"
+    },
+    {
+      "name": "ai.png",
+      "url": "https://d.huore.de/webdav/icon/ai.png"
+    },
+    {
+      "name": "pinterest.png",
+      "url": "https://d.huore.de/webdav/icon/pinterest.png"
+    },
+    {
+      "name": "mask.png",
+      "url": "https://d.huore.de/webdav/icon/mask.png"
+    },
+    {
+      "name": "wikipedia.png",
+      "url": "https://d.huore.de/webdav/icon/wikipedia.png"
+    },
+    {
+      "name": "discord.png",
+      "url": "https://d.huore.de/webdav/icon/discord.png"
+    },
+    {
+      "name": "spare.png",
+      "url": "https://d.huore.de/webdav/icon/spare.png"
+    },
+    {
+      "name": "HK.png",
+      "url": "https://d.huore.de/webdav/icon/HK.png"
+    },
+    {
+      "name": "TW.png",
+      "url": "https://d.huore.de/webdav/icon/TW.png"
+    },
+    {
+      "name": "SG.png",
+      "url": "https://d.huore.de/webdav/icon/SG.png"
+    },
+    {
+      "name": "JP.png",
+      "url": "https://d.huore.de/webdav/icon/JP.png"
+    },
+    {
+      "name": "KR.png",
+      "url": "https://d.huore.de/webdav/icon/KR.png"
+    },
+    {
+      "name": "IN.png",
+      "url": "https://d.huore.de/webdav/icon/IN.png"
+    },
+    {
+      "name": "US.png",
+      "url": "https://d.huore.de/webdav/icon/US.png"
+    },
+    {
+      "name": "DE.png",
+      "url": "https://d.huore.de/webdav/icon/DE.png"
+    },
+    {
+      "name": "UK.png",
+      "url": "https://d.huore.de/webdav/icon/UK.png"
+    },
+    {
+      "name": "EU.png",
+      "url": "https://d.huore.de/webdav/icon/UE.png"
+    },
+    {
+      "name": "CN.png",
+      "url": "https://d.huore.de/webdav/icon/CN.png"
+    }
+  ],
+  "description": "拓跋浩的暗色图标"
+}
