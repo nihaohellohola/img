@@ -1,36 +1,150 @@
-{"name":"dark icon","dark_icon":[{"name":"global.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/global.png"},
-{"name":"github.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/github.png"},
-{"name":"youtube.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/youtube.png"},
-{"name":"google.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/google.png"},
-{"name":"meta.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/meta.png"},
-{"name":"reddit.png", "url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/reddit.png"},
-{"name":"final.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/final.png"},
-{"name":"wechat","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/wechat.png"},
-{"name":"zhihu.pngu", "url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/zhihu.png"},
-{"name":"tiktok.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/tiktok.png"},
-{"name":"paypal.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/paypal.png"},
-{"name":"whatsapp.png", "url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/whatsapp.png"},
-{"name":"x.png", "url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/x.png"},
-{"name":"apple.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/apple.png"},
-{"name":"apple_store.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/apple_store.png"},
-{"name":"onedrive.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/onedrive.png"},
-{"name":"microsoft.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/microsoft.png"},
-{"name":"telegram.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/telegram.png"},
-{"name":"cloudflare.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/cloudflare.png"},
-{"name":"ai.png", "url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/ai.png"},
-{"name":"pinterest.png", "url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/pinterest.png"},  
-{"name":"mask.png", "url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/mask.png"}, 
-{"name":"wikipedia.png", "url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/wikipedia.png"},
-{"name":"discord.png", "url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/discord.png"},
-{"name":"spare.png", "url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/spare.png"},
-{"name":"HK.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/HK.png"},
-{"name":"TW.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/TW.png"},
-{"name":"SG.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/SG.png"},
-{"name":"JP.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/JP.png"},
-{"name":"KR.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/KR.png"},
-{"name":"IN.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/IN.png"},
-{"name":"US.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/US.png"},
-{"name":"DE.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/DE.png"},
-{"name":"UK.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/UK.png"},
-{"name":"EU.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/UE.png"},
-{"name":"CN.png","url":"https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/CN.png"}],"description":"拓跋浩的暗色图标"}
+{
+  "name": "dark icon",
+  "dark_icon": [
+    {
+      "name": "global.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/global.png"
+    },
+    {
+      "name": "github.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/github.png"
+    },
+    {
+      "name": "youtube.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/youtube.png"
+    },
+    {
+      "name": "google.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/google.png"
+    },
+    {
+      "name": "meta.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/meta.png"
+    },
+    {
+      "name": "reddit.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/reddit.png"
+    },
+    {
+      "name": "final.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/final.png"
+    },
+    {
+      "name": "wechat.png", 
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/wechat.png"
+    },
+    {
+      "name": "zhihu.png", 
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/zhihu.png"
+    },
+    {
+      "name": "tiktok.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/tiktok.png"
+    },
+    {
+      "name": "paypal.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/paypal.png"
+    },
+    {
+      "name": "whatsapp.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/whatsapp.png"
+    },
+    {
+      "name": "x.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/x.png"
+    },
+    {
+      "name": "apple.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/apple.png"
+    },
+    {
+      "name": "apple_store.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/apple_store.png"
+    },
+    {
+      "name": "onedrive.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/onedrive.png"
+    },
+    {
+      "name": "microsoft.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/microsoft.png"
+    },
+    {
+      "name": "telegram.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/telegram.png"
+    },
+    {
+      "name": "cloudflare.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/cloudflare.png"
+    },
+    {
+      "name": "ai.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/ai.png"
+    },
+    {
+      "name": "pinterest.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/pinterest.png"
+    },
+    {
+      "name": "mask.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/mask.png"
+    },
+    {
+      "name": "wikipedia.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/wikipedia.png"
+    },
+    {
+      "name": "discord.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/discord.png"
+    },
+    {
+      "name": "spare.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/spare.png"
+    },
+    {
+      "name": "HK.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/HK.png"
+    },
+    {
+      "name": "TW.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/TW.png"
+    },
+    {
+      "name": "SG.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/SG.png"
+    },
+    {
+      "name": "JP.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/JP.png"
+    },
+    {
+      "name": "KR.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/KR.png"
+    },
+    {
+      "name": "IN.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/IN.png"
+    },
+    {
+      "name": "US.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/US.png"
+    },
+    {
+      "name": "DE.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/DE.png"
+    },
+    {
+      "name": "UK.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/UK.png"
+    },
+    {
+      "name": "EU.png", 
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/EU.png"
+    },
+    {
+      "name": "CN.png",
+      "url": "https://raw.githubusercontent.com/nihaohellohola/img/main/dark_icon/CN.png"
+    }
+  ],
+  "description": "拓跋浩的暗色图标"
+}
