@@ -1,0 +1,126 @@
+{
+    "name": "Rectangle FlagS",
+    "description": "留白",
+    "icons": [
+        {
+            "name": "Australia",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/Australia.png"
+        },
+        {
+            "name": "AU",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/AU.png"
+        },
+        {
+            "name": "China",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/China.png"
+        },
+        {
+            "name": "CN",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/CN.png"
+        },
+        {
+            "name": "Germany",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/Germany.png"
+        },
+        {
+            "name": "DE",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/DE.png"
+        },
+        {
+            "name": "France",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/France.png"
+        },
+        {
+            "name": "FR",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/FR.png"
+        },
+        {
+            "name": "Hong_Kong",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/Hong_Kong.png"
+        },
+        {
+            "name": "HK",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/HK.png"
+        },
+        {
+            "name": "India",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/India.png"
+        },
+        {
+            "name": "IN",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/IN.png"
+        },
+        {
+            "name": "Japan",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/Japan.png"
+        },
+        {
+            "name": "JP",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/JP.png"
+        },
+        {
+            "name": "Korea",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/Korea.png"
+        },
+        {
+            "name": "KR",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/KR.png"
+        },
+        {
+            "name": "Macao",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/Macao.png"
+        },
+        {
+            "name": "MO",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/MO.png"
+        },
+        {
+            "name": "Russia",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/Russia.png"
+        },
+        {
+            "name": "RU",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/RU.png"
+        },
+        {
+            "name": "Singapore",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/Singapore.png"
+        },
+        {
+            "name": "SG",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/SG.png"
+        },
+        {
+            "name": "Taiwan",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/Taiwan.png"
+        },
+        {
+            "name": "TW",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/TW.png"
+        },
+        {
+            "name": "Turkey",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/Turkey.png"
+        },
+        {
+            "name": "TK",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/TK.png"
+        },
+        {
+            "name": "United_Kingdom",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/United_Kingdom.png"
+        },
+        {
+            "name": "BN",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/UK.png"
+        },
+        {
+            "name": "United_States",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/United_States.png"
+        },
+        {
+            "name": "US",
+            "url": "https://raw.githubusercontent.com/nihaohellohola/img/refs/heads/main/flag/rect/US.png"
+        }
+    ]
+}
